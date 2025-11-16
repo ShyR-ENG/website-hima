@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "slug": "perkembangan-teknologi-2024",
+    "title": "Perkembangan Teknologi Informasi di Tahun 2024",
+    "excerpt": "Tahun 2024 membawa berbagai inovasi teknologi baru yang akan mengubah cara kita bekerja dan berinteraksi dengan teknologi.",
+    "content": "Tahun 2024 menjadi tahun yang penuh dengan inovasi teknologi. Dari perkembangan AI yang semakin canggih, hingga teknologi cloud computing yang semakin terjangkau. Sebagai mahasiswa Teknik Informatika, penting untuk selalu update dengan perkembangan terkini.\n\nBeberapa tren teknologi yang patut diperhatikan:\n\n1. **Artificial Intelligence (AI)** - ChatGPT dan model AI lainnya terus berkembang\n2. **Cloud Computing** - Migrasi ke cloud semakin masif\n3. **Cybersecurity** - Keamanan data menjadi prioritas utama\n4. **Internet of Things (IoT)** - Perangkat terhubung semakin banyak\n5. **Blockchain** - Teknologi blockchain mulai digunakan di berbagai sektor\n\nHIMANIKKA berkomitmen untuk membantu mahasiswa mengikuti perkembangan teknologi ini melalui berbagai kegiatan dan workshop.",
+    "author": "Tim Redaksi HIMANIKKA",
+    "date": "2024-03-10",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
+    "category": "Teknologi"
+  },
+  {
+    "id": 2,
+    "slug": "tips-sukses-menjadi-programmer",
+    "title": "Tips Sukses Menjadi Programmer Profesional",
+    "excerpt": "Bagaimana cara memulai karir sebagai programmer dan tips untuk berkembang di industri teknologi.",
+    "content": "Menjadi programmer profesional membutuhkan dedikasi dan strategi yang tepat. Berikut adalah beberapa tips yang bisa membantu Anda:\n\n**1. Kuasai Dasar-Dasar**\nPahami fundamental programming seperti algoritma, struktur data, dan paradigma pemrograman. Jangan terburu-buru ke framework sebelum memahami dasar.\n\n**2. Praktik Konsisten**\nPractice makes perfect. Buat proyek-proyek kecil untuk mengasah kemampuan. Gunakan platform seperti GitHub untuk menyimpan portfolio.\n\n**3. Ikuti Komunitas**\nBergabung dengan komunitas programmer, baik online maupun offline. Diskusi dengan sesama developer akan mempercepat pembelajaran.\n\n**4. Baca Dokumentasi**\nKemampuan membaca dokumentasi adalah skill penting. Dokumentasi resmi biasanya lebih akurat daripada tutorial.\n\n**5. Jangan Takut Error**\nError adalah bagian dari proses belajar. Setiap error yang diselesaikan akan menambah pengalaman.\n\n**6. Build Portfolio**\nBuat portfolio yang menunjukkan kemampuan Anda. Proyek yang nyata lebih berharga daripada hanya teori.",
+    "author": "Tim HIMANIKKA",
+    "date": "2024-03-08",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800",
+    "category": "Karir"
+  },
+  {
+    "id": 3,
+    "slug": "workshop-success-story",
+    "title": "Sukses Besar Workshop Web Development HIMANIKKA",
+    "excerpt": "Workshop Web Development yang diadakan HIMANIKKA berhasil menarik minat lebih dari 100 peserta dari berbagai jurusan.",
+    "content": "Workshop Web Development yang diadakan HIMANIKKA pada tanggal 15 Maret 2024 berhasil menjadi acara yang sangat sukses. Acara ini dihadiri oleh lebih dari 100 peserta dari berbagai jurusan di STT Nurul Fikri.\n\n**Highlights Acara:**\n\n- Materi yang disampaikan sangat komprehensif, mulai dari dasar HTML/CSS hingga framework modern seperti Next.js\n- Hands-on session yang memungkinkan peserta langsung praktik\n- Networking session yang memungkinkan peserta berinteraksi dengan sesama developer\n- Doorprize menarik untuk peserta yang aktif\n\n**Testimoni Peserta:**\n\n\"Workshop ini sangat membantu saya memahami konsep modern web development. Materinya jelas dan mudah diikuti.\" - Ahmad, Mahasiswa TI Semester 3\n\n\"Saya baru belajar programming, tapi workshop ini membuat saya semakin tertarik untuk mendalami web development.\" - Siti, Mahasiswa TI Semester 1\n\nHIMANIKKA berencana mengadakan workshop serupa di masa depan dengan topik yang lebih beragam.",
+    "author": "Tim HIMANIKKA",
+    "date": "2024-03-16",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800",
+    "category": "Event"
+  },
+  {
+    "id": 4,
+    "slug": "pentingnya-cybersecurity",
+    "title": "Pentingnya Cybersecurity di Era Digital",
+    "excerpt": "Keamanan siber menjadi isu penting di era digital. Pelajari bagaimana melindungi data dan sistem dari ancaman cyber.",
+    "content": "Di era digital seperti sekarang, cybersecurity bukan lagi pilihan, melainkan kebutuhan. Setiap hari, ribuan serangan cyber terjadi di seluruh dunia, menargetkan individu, perusahaan, hingga instansi pemerintah.\n\n**Mengapa Cybersecurity Penting?**\n\n1. **Proteksi Data Pribadi** - Data pribadi yang bocor bisa disalahgunakan\n2. **Keamanan Finansial** - Serangan cyber bisa mengakibatkan kerugian finansial\n3. **Reputasi** - Kebocoran data bisa merusak reputasi\n4. **Kontinuitas Bisnis** - Serangan bisa mengganggu operasional\n\n**Tips Keamanan Dasar:**\n\n- Gunakan password yang kuat dan unik\n- Aktifkan two-factor authentication (2FA)\n- Update software secara berkala\n- Hati-hati dengan email/phishing\n- Backup data secara rutin\n- Gunakan VPN saat menggunakan WiFi publik\n\n**Peluang Karir di Cybersecurity:**\n\nBidang cybersecurity menawarkan peluang karir yang sangat menjanjikan. Profesi seperti Security Analyst, Penetration Tester, dan Security Engineer sangat dibutuhkan di industri.\n\nHIMANIKKA berencana mengadakan workshop khusus tentang cybersecurity di semester depan.",
+    "author": "Tim Redaksi HIMANIKKA",
+    "date": "2024-03-05",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800",
+    "category": "Teknologi"
+  },
+  {
+    "id": 5,
+    "slug": "panduan-memilih-specialization",
+    "title": "Panduan Memilih Specialization di Teknik Informatika",
+    "excerpt": "Bingung memilih fokus di bidang IT? Artikel ini akan membantu Anda menemukan specialization yang sesuai dengan minat dan bakat.",
+    "content": "Teknik Informatika memiliki banyak cabang specialization. Memilih fokus yang tepat di awal akan membantu Anda lebih terarah dalam belajar dan mengembangkan karir.\n\n**Bidang Specialization Populer:**\n\n**1. Web Development**\n- Frontend: HTML, CSS, JavaScript, React, Vue\n- Backend: Node.js, Python, PHP, Java\n- Full Stack: Kombinasi frontend dan backend\n\n**2. Mobile Development**\n- Native: Swift (iOS), Kotlin (Android)\n- Cross-platform: React Native, Flutter\n\n**3. Data Science & AI**\n- Machine Learning, Deep Learning\n- Data Analysis, Big Data\n- Natural Language Processing\n\n**4. Cybersecurity**\n- Ethical Hacking, Penetration Testing\n- Security Analysis, Incident Response\n\n**5. Cloud Computing**\n- AWS, Google Cloud, Azure\n- DevOps, Containerization\n\n**6. Game Development**\n- Unity, Unreal Engine\n- Game Design, Game Programming\n\n**Tips Memilih:**\n\n1. **Ikuti Minat** - Pilih bidang yang Anda sukai\n2. **Lihat Peluang Karir** - Pertimbangkan demand di industri\n3. **Coba Dulu** - Ikuti workshop atau bootcamp untuk merasakan\n4. **Jangan Terburu-buru** - Bisa explore beberapa bidang dulu\n5. **Konsultasi dengan Senior** - Minta saran dari alumni atau dosen\n\nIngat, tidak ada specialization yang lebih baik dari yang lain. Yang penting adalah passion dan konsistensi dalam belajar.",
+    "author": "Tim HIMANIKKA",
+    "date": "2024-03-01",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800",
+    "category": "Edukasi"
+  }
+]
+
+

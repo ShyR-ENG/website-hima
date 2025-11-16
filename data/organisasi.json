@@ -1,0 +1,303 @@
+{
+  "pengurusInti": {
+    "ketua": {
+      "nama": "M. Irfan Permadi",
+      "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+    },
+    "wakilKetua": {
+      "nama": "Putri Fadilla Elisiya Joans",
+      "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+    },
+    "sekretaris": [
+      {
+        "nama": "Putri Wulandari",
+        "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop"
+      },
+      {
+        "nama": "Bunga Lestari",
+        "foto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop"
+      }
+    ],
+    "bendahara": {
+      "nama": "Imratul Munawarah",
+      "foto": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=400&fit=crop"
+    }
+  },
+  "departemen": [
+    {
+      "id": 1,
+      "slug": "pengembangan-sumber-daya-organisasi",
+      "nama": "Departement Pengembangan Sumber Daya Organisasi",
+      "singkatan": "PSDO",
+      "ketua": {
+        "nama": "Maulana Muhammad Zaky Putra Gammas",
+        "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+      },
+      "anggota": [
+        {
+          "nama": "Deni Saputra",
+          "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Akmal Refi",
+          "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Namora",
+          "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Wici Amalisa",
+          "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Tiara Cinta",
+          "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Elisa Amanda",
+          "foto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "minat-bakat",
+      "nama": "Departement Minat & Bakat",
+      "singkatan": "MNB",
+      "ketua": {
+        "nama": "Arul Irsad",
+        "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+      },
+      "anggota": [
+        {
+          "nama": "Wawa Miyunda",
+          "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Efriel Rosyel",
+          "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Muhammad Khalid",
+          "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Akmal Refi",
+          "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Akhyal Ahda",
+          "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Saiful Jamil",
+          "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Renaldi Tanjung",
+          "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Fauzan Yon Andesta",
+          "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Muhammad Ramzy",
+          "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Meralfin June",
+          "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Edis Saputra",
+          "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Syahidul Haya",
+          "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "media-informasi",
+      "nama": "Departement Media Informasi",
+      "singkatan": "MEDINFO",
+      "ketua": {
+        "nama": "Chyndie Maharani",
+        "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+      },
+      "anggota": [
+        {
+          "nama": "Muhammad Alghifar",
+          "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Ahmad Muaz",
+          "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Jihan Fadila",
+          "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Mitsla Usnik Andini",
+          "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Ladzya Fatharany",
+          "foto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "keagamaan",
+      "nama": "Departement Keagamaan",
+      "singkatan": "KEAGAMAAN",
+      "ketua": {
+        "nama": "Syafri Nola",
+        "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+      },
+      "anggota": [
+        {
+          "nama": "Muhammad Farhan Abqori",
+          "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Syahidul Haya",
+          "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Sinta Permata Ayu",
+          "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Muhammad Farid",
+          "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "tata-tulis-ilmiah-penelitian",
+      "nama": "Departement Tata Tulis Ilmiah & Penelitian",
+      "singkatan": "TTIP",
+      "ketua": {
+        "nama": "Fauzan Yon Andesta",
+        "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+      },
+      "anggota": [
+        {
+          "nama": "Najmi Syuhada",
+          "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Alkadi Marsyah",
+          "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Abel Mulya Pratama",
+          "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Putri Fadilla Elisiya Joans",
+          "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "M Irfan Permadi",
+          "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+        },
+        {
+          "nama": "Muhammad Faridz Maulana",
+          "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+        }
+      ]
+    }
+  ],
+  "anggotaUmum": [
+    {
+      "nama": "Reksa Agio Pamungkas",
+      "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Nabil Aqillah Hairi",
+      "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Abdul Aziz",
+      "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Rahmat Hidayat",
+      "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Asral Hidayat",
+      "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Dedek Fitri Deza",
+      "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Mutiara Fadilla",
+      "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Elsa Maulidina",
+      "foto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Ihsan Alhafiz",
+      "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Sherly Ayunda Mahendra",
+      "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Setrio Susanto",
+      "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Sari Rahmatulillah",
+      "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Maria Ulfa",
+      "foto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Nurul syafi khaira tunnisa",
+      "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Putri Tiara",
+      "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Hanifa faizah",
+      "foto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Arya Dafa",
+      "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Pikkri",
+      "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Yoanda",
+      "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+    },
+    {
+      "nama": "Razel Delis Putra",
+      "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+    }
+  ]
+}
+
