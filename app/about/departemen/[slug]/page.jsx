@@ -43,8 +43,7 @@ export default function DepartmentDetail({ params }) {
           {/* Ketua Departemen */}
           <div className="mb-12">
             <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">Ketua Departemen</h2>
-            {/* center only for keagamaan to keep left/right equal */}
-            <div className={department.slug === 'keagamaan' ? 'max-w-5xl mx-auto' : 'max-w-5xl ml-auto'}>
+            <div className={department.slug === 'keagamaan' ? 'max-w-5xl mx-auto' : 'max-w-4xl mx-auto'}>
               <div className="bg-white rounded-lg shadow-lg p-6 text-center max-w-md mx-auto">
                 <div className="relative w-48 h-48 mx-auto mb-4 rounded-full overflow-hidden">
                   <Image
@@ -54,8 +53,8 @@ export default function DepartmentDetail({ params }) {
                     className="object-cover"
                     sizes="192px"
                   />
-                <div>
-                  <div className={department.slug === 'keagamaan' ? 'max-w-5xl mx-auto' : 'max-w-5xl ml-auto'}>
+                </div>
+                <h3 className="text-xl font-semibold text-gray-900">{department.ketua.nama}</h3>
                 <p className="text-gray-600 mt-1">Ketua {department.nama}</p>
               </div>
             </div>
@@ -63,7 +62,7 @@ export default function DepartmentDetail({ params }) {
 
           {/* Anggota Departemen */}
           <div>
-            <div className="max-w-5xl ml-auto">
+            <div className={department.slug === 'keagamaan' ? 'max-w-5xl mx-auto' : 'max-w-4xl mx-auto'}>
               <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">
                 Anggota Departemen ({department.anggota.length} orang)
               </h2>
