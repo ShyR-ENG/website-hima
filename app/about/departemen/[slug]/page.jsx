@@ -43,7 +43,7 @@ export default function DepartmentDetail({ params }) {
           {/* Ketua Departemen */}
           <div className="mb-12">
             <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">Ketua Departemen</h2>
-            <div className={department.slug === 'keagamaan' ? 'max-w-5xl mx-auto' : 'max-w-4xl mx-auto'}>
+            <div className={department.slug === 'keagamaan' ? 'max-w-5xl ml-auto' : 'max-w-4xl mx-auto'}>
               <div className="bg-white rounded-lg shadow-lg p-6 text-center max-w-md mx-auto">
                 <div className="relative w-48 h-48 mx-auto mb-4 rounded-full overflow-hidden">
                   <Image
@@ -62,7 +62,7 @@ export default function DepartmentDetail({ params }) {
 
           {/* Anggota Departemen */}
           <div>
-            <div className={department.slug === 'keagamaan' ? 'max-w-5xl mx-auto' : 'max-w-4xl mx-auto'}>
+            <div className={department.slug === 'keagamaan' ? 'max-w-5xl ml-auto' : 'max-w-4xl mx-auto'}>
               <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">
                 Anggota Departemen ({department.anggota.length} orang)
               </h2>
