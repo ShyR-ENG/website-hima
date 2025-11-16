@@ -43,8 +43,8 @@ export default function DepartmentDetail({ params }) {
           {/* Ketua Departemen */}
           <div className="mb-12">
             <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">Ketua Departemen</h2>
-            <div className="max-w-xs mx-auto">
-              <div className="bg-white rounded-lg shadow-lg p-6 text-center">
+            <div className="max-w-4xl mx-auto">
+              <div className="bg-white rounded-lg shadow-lg p-6 text-center max-w-md mx-auto">
                 <div className="relative w-48 h-48 mx-auto mb-4 rounded-full overflow-hidden">
                   <Image
                     src={department.ketua.foto}
@@ -62,28 +62,30 @@ export default function DepartmentDetail({ params }) {
 
           {/* Anggota Departemen */}
           <div>
-            <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">
-              Anggota Departemen ({department.anggota.length} orang)
-            </h2>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-6">
-              {department.anggota.map((anggota, idx) => (
-                <div
-                  key={idx}
-                  className="bg-white rounded-lg shadow-md p-4 text-center hover:shadow-lg transition-shadow"
-                >
-                  <div className="relative w-24 h-24 mx-auto mb-3 rounded-full overflow-hidden">
-                    <Image
-                      src={anggota.foto}
-                      alt={anggota.nama}
-                      fill
-                      className="object-cover"
-                      sizes="96px"
-                    />
+            <div className="max-w-4xl mx-auto">
+              <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">
+                Anggota Departemen ({department.anggota.length} orang)
+              </h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-6">
+                {department.anggota.map((anggota, idx) => (
+                  <div
+                    key={idx}
+                    className="bg-white rounded-lg shadow-md p-4 text-center hover:shadow-lg transition-shadow"
+                  >
+                    <div className="relative w-24 h-24 mx-auto mb-3 rounded-full overflow-hidden">
+                      <Image
+                        src={anggota.foto}
+                        alt={anggota.nama}
+                        fill
+                        className="object-cover"
+                        sizes="96px"
+                      />
+                    </div>
+                    <p className="text-sm font-medium text-gray-900">{anggota.nama}</p>
+                    <p className="text-xs text-gray-500 mt-1">Anggota</p>
                   </div>
-                  <p className="text-sm font-medium text-gray-900">{anggota.nama}</p>
-                  <p className="text-xs text-gray-500 mt-1">Anggota</p>
-                </div>
-              ))}
+                ))}
+              </div>
             </div>
           </div>
         </div>
