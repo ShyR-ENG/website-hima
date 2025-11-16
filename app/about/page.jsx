@@ -30,7 +30,7 @@ export default function About() {
                 HIMANIKKA (Himpunan Mahasiswa Teknik Informatika) adalah organisasi kemahasiswaan yang berfokus pada pengembangan kompetensi, kreativitas, dan profesionalitas mahasiswa di bidang teknologi informasi. HIMANIKKA hadir sebagai wadah kolaborasi, pembelajaran, serta pengembangan minat dan bakat mahasiswa dalam dunia IT.
               </p>
               <p className="mb-4">
-                Organisasi ini berada di bawah naungan Program Studi Teknik Informatika Universitas Islam Sumatera Barat dan didirikan dengan tujuan untuk menjadi wadah bagi mahasiswa Teknik Informatika dalam mengembangkan potensi, minat, dan bakat di bidang teknologi informasi.
+                Organisasi ini berada di bawah naungan Program Studi Teknik Informatika Universitas Islam Sumatera Barat (berlokasi di Jl. By Pass No.KM.16, Koto Panjang Ikua Koto, Kec. Koto Tangah, Kota Padang, Sumatera Barat 25586) dan didirikan dengan tujuan untuk menjadi wadah bagi mahasiswa Teknik Informatika dalam mengembangkan potensi, minat, dan bakat di bidang teknologi informasi.
               </p>
               <p className="mb-4">
                 Sejak didirikan, HIMANIKKA telah aktif menyelenggarakan berbagai kegiatan yang 

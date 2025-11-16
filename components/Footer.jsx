@@ -52,8 +52,8 @@ export default function Footer() {
               <p>
                 <span className="font-medium">Alamat:</span><br />
                 Universitas Islam Sumatera Barat<br />
-                Jl. Kolonel Anwar Hamid, Kp. Jambak<br />
-                Padang, Sumatera Barat
+                Jl. By Pass No.KM.16, Koto Panjang Ikua Koto, Kec. Koto Tangah,<br />
+                Kota Padang, Sumatera Barat 25586
               </p>
               <div className="mt-4">
                 <p className="font-medium mb-2">Media Sosial:</p>
