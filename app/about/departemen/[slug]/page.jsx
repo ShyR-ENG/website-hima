@@ -70,15 +70,15 @@ export default function DepartmentDetail({ params }) {
                 {department.anggota.map((anggota, idx) => (
                   <div
                     key={idx}
-                    className="bg-white rounded-lg shadow-md p-6 text-center hover:shadow-lg transition-shadow"
+                    className="bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow h-full"
                   >
-                    <div className="relative w-32 h-32 mx-auto mb-3 rounded-full overflow-hidden">
+                    <div className="relative w-24 h-24 mx-auto mb-4 rounded-full overflow-hidden">
                       <Image
                         src={anggota.foto}
                         alt={anggota.nama}
                         fill
                         className="object-cover"
-                        sizes="128px"
+                        sizes="96px"
                       />
                     </div>
                     <p className="text-sm font-medium text-gray-900">{anggota.nama}</p>
