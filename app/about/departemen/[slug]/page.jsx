@@ -66,11 +66,11 @@ export default function DepartmentDetail({ params }) {
               <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">
                 Anggota Departemen ({department.anggota.length} orang)
               </h2>
-              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-10">
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 gap-10">
                 {department.anggota.map((anggota, idx) => (
                   <div
                     key={idx}
-                    className="bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow h-full"
+                    className="bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow h-full min-w-[200px]"
                   >
                     <div className="relative w-24 h-24 mx-auto mb-4 rounded-full overflow-hidden">
                       <Image
