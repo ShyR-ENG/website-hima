@@ -65,7 +65,7 @@ export default function DepartmentDetail({ params }) {
             <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">
               Anggota Departemen ({department.anggota.length} orang)
             </h2>
-            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-6">
               {department.anggota.map((anggota, idx) => (
                 <div
                   key={idx}
